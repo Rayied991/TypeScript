@@ -1,5 +1,6 @@
 # TypeScript
 
+
 <h1>What is TypeScript</h1>
 <ol>
 <li>
@@ -35,4 +36,15 @@
 <ol>
 <li><h3>Install Node.js in your Machine</h3></li>
 <li><h3>Install TypeScript Compiler[npm i -g typescript]-tsc command is ready</h3></li>
+<li><h3>tsc init</h3></li>
+</ol>
+<h1> Commands</h1>
+<ol>
+<li><h3>tsc</h3></li>
+<li><h3>tsc -w[Watch mode]</h3></li>
+</ol>
+<h1> Settings</h1>
+<ol>
+<li><h3>change the rootdir and outdir</h3></li>
+<li><h3>tsc -w[Watch mode]</h3></li>
 </ol>
